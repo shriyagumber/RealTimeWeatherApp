@@ -1,5 +1,3 @@
-# RealTimeWeatherApp
-
 # Android Weather App
 
 I developed a fully-featured **Android Weather Application** as part of CSCI 571 (Web Technologies).  
