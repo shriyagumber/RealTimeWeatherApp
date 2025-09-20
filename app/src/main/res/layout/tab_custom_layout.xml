@@ -1,0 +1,23 @@
+<!-- tab_custom_layout.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <!-- ImageView for the icon -->
+    <ImageView
+        android:id="@+id/tab_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/clear_day" />
+
+    <!-- TextView for the text -->
+    <TextView
+        android:id="@+id/tab_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tab"
+        android:textSize="12sp"
+        android:textColor="@color/white" />
+</LinearLayout>
