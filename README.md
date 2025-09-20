@@ -42,9 +42,9 @@ The app integrates a **Node.js backend**, **MongoDB Atlas**, and the **Tomorrow.
 
 ## Tech Stack
 - **Frontend:** Java (Android Studio, Android SDK, Material Design, Fragments, RecyclerViews)  
-- **Backend:** Node.js (reused from Assignment 3), deployed on AWS/GAE/Azure  
-- **Database:** MongoDB Atlas (favorites persistence)  
-- **APIs:** Tomorrow.io, IPinfo API, Google Maps APIs  
+- **Backend:** Node.js , deployed on GCP
+- **Database:** MongoDB Atlas
+- **APIs:** Tomorrow.io, IPinfo API, Google Maps APIs
 - **Libraries:**  
   - [Volley](https://developer.android.com/training/volley) for async HTTP requests  
   - [Highcharts Android](https://www.highcharts.com/blog/tutorials/highcharts-android-wrapper-tutorial/) for graphs  
