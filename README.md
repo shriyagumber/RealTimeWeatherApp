@@ -1,13 +1,13 @@
 # RealTimeWeatherApp
 
-# 🌦️ Android Weather App
+# Android Weather App
 
 I developed a fully-featured **Android Weather Application** as part of CSCI 571 (Web Technologies).  
 The app integrates a **Node.js backend**, **MongoDB Atlas**, and the **Tomorrow.io Weather API**, while following Google’s Material Design guidelines for UI.
 
 ---
 
-## 🚀 Features
+## Features
 - **Splash Screen & App Icon**  
   Custom app icon with attribution to Tomorrow.io, displayed on launch.
   
@@ -40,7 +40,7 @@ The app integrates a **Node.js backend**, **MongoDB Atlas**, and the **Tomorrow.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** Java (Android Studio, Android SDK, Material Design, Fragments, RecyclerViews)  
 - **Backend:** Node.js (reused from Assignment 3), deployed on AWS/GAE/Azure  
 - **Database:** MongoDB Atlas (favorites persistence)  
