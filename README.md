@@ -1,6 +1,6 @@
 # Android Weather App
 
-I developed a fully-featured **Android Weather Application** as part of CSCI 571 (Web Technologies).  
+I developed a fully-featured **Android Weather Application**.  
 The app integrates a **Node.js backend**, **MongoDB Atlas**, and the **Tomorrow.io Weather API**, while following Google’s Material Design guidelines for UI.
 
 ---
